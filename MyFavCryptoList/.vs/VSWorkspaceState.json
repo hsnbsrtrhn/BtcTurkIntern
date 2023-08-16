@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyFavCryptoList",
+    "\\MyFavCryptoList\\Controllers",
+    "\\MyFavCryptoList\\Entities",
+    "\\MyFavCryptoList\\Models",
+    "\\MyFavCryptoList\\Models\\Requests"
+  ],
+  "SelectedNode": "\\MyFavCryptoList\\Controllers\\FavoriteCryptoController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  myfavcryptolist:
+    image: ${DOCKER_REGISTRY-}myfavcryptolist
+    build:
+      context: .
+      dockerfile: MyFavCryptoList\Dockerfile

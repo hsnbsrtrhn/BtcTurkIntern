@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5+WiSXNwh1loAXgc3wTz+9oEVDKoPhRMplWmTNs9WSg=",
+  "Source": "CryptoListApi",
+  "BasePath": "_content/CryptoListApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
